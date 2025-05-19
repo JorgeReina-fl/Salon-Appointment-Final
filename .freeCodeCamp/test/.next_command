@@ -98,3 +98,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 psql --username=freecodecamp --dbname=postgres
 ls --color=auto
 ./salon.sh
+git add .
